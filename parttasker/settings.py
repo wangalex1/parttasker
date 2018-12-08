@@ -25,7 +25,7 @@ SECRET_KEY = '0mjli44@%lf3-cgmt8y$9)26$9wk4##i$%47(2u5uxwywy&qp-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['parttasker.herokuapp.com','localhost','127.0.0.1']
 
 
 # Application definition
